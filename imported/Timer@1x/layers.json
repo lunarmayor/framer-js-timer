@@ -1,0 +1,81 @@
+[
+   {
+      "objectId" : "2",
+      "name" : "iPhone_6",
+      "visible" : true,
+      "maskFrame" : {
+         "x" : -188,
+         "y" : -334,
+         "width" : 375,
+         "height" : 667
+      },
+      "layerFrame" : {
+         "x" : -188,
+         "y" : -334,
+         "width" : 375,
+         "height" : 667
+      },
+      "children" : [
+         {
+            "objectId" : "1",
+            "name" : "restart",
+            "visible" : true,
+            "maskFrame" : null,
+            "layerFrame" : {
+               "x" : 25,
+               "y" : 21,
+               "width" : 32,
+               "height" : 44
+            },
+            "children" : [],
+            "kind" : "group",
+            "imageType" : "png",
+            "image" : {
+               "path" : "images/1.png",
+               "frame" : {
+                  "x" : 25,
+                  "y" : 21,
+                  "width" : 32,
+                  "height" : 44
+               }
+            }
+         },
+         {
+            "objectId" : "0",
+            "name" : "play_pause_button",
+            "visible" : true,
+            "maskFrame" : null,
+            "layerFrame" : {
+               "x" : 160,
+               "y" : 486,
+               "width" : 76,
+               "height" : 76
+            },
+            "children" : [],
+            "kind" : "group",
+            "imageType" : "png",
+            "image" : {
+               "path" : "images/0.png",
+               "frame" : {
+                  "x" : 160,
+                  "y" : 486,
+                  "width" : 76,
+                  "height" : 76
+               }
+            }
+         }
+      ],
+      "kind" : "artboard",
+      "backgroundColor" : "rgba(1.00000, 1.00000, 1.00000, 1.00000)",
+      "imageType" : "png",
+      "image" : {
+         "path" : "images/2.png",
+         "frame" : {
+            "x" : -188,
+            "y" : -334,
+            "width" : 375,
+            "height" : 667
+         }
+      }
+   }
+]
